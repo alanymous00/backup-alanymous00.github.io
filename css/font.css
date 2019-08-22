@@ -1,9 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Philosopher&display=swap');
+
+
 .philosopher {
-    font-family: 'philosopher';
+    font-family: 'Philosopher', sans-serif;
 }
 
-/* philosopher */
-@font-face {
-    font-family: 'philosopher';
-    src: url(../fonts_lokal/Philosopher-Regular.ttf);
-}
